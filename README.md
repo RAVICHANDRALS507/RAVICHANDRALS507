@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **cravi7715@gmail.com**
 
-- All of my projects are available at [Know More](https://ravichandrals507.github.io/Portfolio/)
+- <h1> [Know More](https://ravichandrals507.github.io/Portfolio/)</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
