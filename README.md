@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **cravi7715@gmail.com**
 
-- <h1> [Know More](https://ravichandrals507.github.io/Portfolio/)</h1>
+- Portfolio : [Click Me](https://ravichandrals507.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
