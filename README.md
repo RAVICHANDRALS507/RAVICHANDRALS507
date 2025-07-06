@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.figma.com/proto/mo63zN70fIrIo5I47qmHgf/My-Portfolio?page-id=0%3A1&node-id=1-3&starting-point-node-id=1%3A3&scaling=scale-down&t=1NNg69hk6AWVZ0Mr-1](https://www.figma.com/proto/mo63zN70fIrIo5I47qmHgf/My-Portfolio?page-id=0%3A1&node-id=1-3&starting-point-node-id=1%3A3&scaling=scale-down&t=1NNg69hk6AWVZ0Mr-1)
 
-- 📫 How to reach me **cravi7715@gmail.com**
+- 📫 How to reach me **ravichandralsprofessional@gmail.com**
 
 - Portfolio : [Click Me](https://ravichandrals507.github.io/Portfolio/)
 
