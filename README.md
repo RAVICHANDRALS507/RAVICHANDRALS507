@@ -1,22 +1,36 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-
 <h1 align="center">Hi 👋, I'm RAVICHANDRA L S</h1>
 <h3 align="center">A Passionate Frontend Feveloper from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RAVICHANDRALS507&label=Profile%20views&color=0e75b6&style=flat" alt="RAVICHANDRALS507" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RAVICHANDRALS507" alt="RAVICHANDRALS507" /></a> </p>
+
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 
 
-- 🔭 I’m currently working on **MERN & DSA**
 
-- 🌱 I’m currently learning **MERN & DSA**
 
-- 👨‍💻 All of my projects are available at [https://www.figma.com/proto/mo63zN70fIrIo5I47qmHgf/My-Portfolio?page-id=0%3A1&node-id=1-3&starting-point-node-id=1%3A3&scaling=scale-down&t=1NNg69hk6AWVZ0Mr-1](https://www.figma.com/proto/mo63zN70fIrIo5I47qmHgf/My-Portfolio?page-id=0%3A1&node-id=1-3&starting-point-node-id=1%3A3&scaling=scale-down&t=1NNg69hk6AWVZ0Mr-1)
+
+- 🌱 I’m currently learning **MERN, DSA, Database**
+
+- 🔭 I’m currently working on [StreakFlow](https://github.com/RAVICHANDRALS507/StreakFlow)
+
+- 👨‍💻 All of my projects are available at [Github](https://github.com/RAVICHANDRALS507?tab=repositories)
+- 📑 Check out my resume here [Resume](https://drive.google.com/file/d/1knXcaPrNjqKZNAb7uvLvzFXlJfKPFQtQ/view?usp=drive_link)
 
 - 📫 How to reach me **ravichandralsprofessional@gmail.com**
 
 - Portfolio : [Click Me](https://ravichandrals507.github.io/Portfolio/)
+
+
+
+
+
+<h3 align="left">Github Stats</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RAVICHANDRALS507&show_icons=true&locale=en" alt="RAVICHANDRALS507" /></p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RAVICHANDRALS507&theme=dark&hide_border=true" alt="RAVICHANDRALS507" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,8 +44,3 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RAVICHANDRALS507&show_icons=true&locale=en" alt="RAVICHANDRALS507" /></p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RAVICHANDRALS507&theme=dark&hide_border=true" alt="RAVICHANDRALS507" />
-</p>
