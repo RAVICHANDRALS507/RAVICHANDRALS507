@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAVICHANDRA L S</h1>
-<h3 align="center">A Passionate Frontend Feveloper from India</h3>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RAVICHANDRALS507&label=Profile%20views&color=0e75b6&style=flat" alt="RAVICHANDRALS507" /> </p>
 
